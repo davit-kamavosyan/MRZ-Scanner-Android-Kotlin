@@ -1,0 +1,2 @@
+# MrzScanner
+Android MRZ scanner
