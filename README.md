@@ -1,2 +1,2 @@
 # MrzScanner
-Android MRZ scanner
+Android MRZ scanner Kotlin
